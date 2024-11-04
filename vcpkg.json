@@ -1,0 +1,7 @@
+{
+  "name": "abseil-test",
+  "version": "1.0.0",
+  "dependencies": [
+    "abseil"
+  ]
+}
